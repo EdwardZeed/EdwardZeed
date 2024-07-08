@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edward
+- 👋 Hi, I’m @Edward Zheng
 - 👀 I’m interested in AI/software development/gaming
 - 🌱 I’m currently learning software development and information system.
 
